@@ -1,0 +1,140 @@
+html, body {
+    
+    margin:0;
+    padding:0;
+    width: 29.7cm;
+    height: 42cm;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat Subrayada', sans-serif;
+    
+ }
+
+
+
+#plaque{
+    
+    width: 29.8cm;
+    height: 19.2cm;
+    background-color:aquamarine;
+    position: relative;
+    
+
+}
+
+#caseA{
+    
+    width: 5.4cm;
+    height: 6.4cm;
+    background-color: burlywood;
+    float: left;
+    border-top: solid black 1mm;
+    border-left: solid black 1mm;
+    
+}
+
+
+#caseB{
+    
+    width: 9.34cm;
+    height: 6.4cm;
+    background-color: burlywood;
+    float: left;
+    border-top: solid black 1mm;
+    border-left: solid black 1mm;
+
+}
+
+
+#caseC{
+    
+    width: 9.34cm;
+    height: 6.4cm;
+    background-color: burlywood;
+    float: left;
+    border-top: solid black 1mm;
+    border-left: solid black 1mm;
+    
+}
+
+
+#caseD{
+    
+    width: 5.4cm;
+    height: 6.4cm;
+    background-color: burlywood;
+    float: left;
+    border-top: solid black 1mm;
+    border-left: solid black 1mm;
+
+}
+
+#caseE{
+    
+    width: 5.4cm;
+    height: 6.3cm;
+    position: absolute;
+    top: 6.4cm;
+    left: 0;
+    background-color: azure;
+    border-top: solid black 1mm;
+    border-left: solid black 1mm;
+}
+
+#caseF{
+    
+    width: 5.4cm;
+    height: 6.3cm;
+    position: absolute;
+    top: 6.4cm;
+    right: 0;
+    background-color: azure;
+    border-top: solid black 1mm;
+    border-left: solid black 1mm;
+}
+
+#caseG{
+    
+    width: 5.4cm;
+    height: 6.3cm;
+    position: absolute;
+    top: 12.6cm;
+    left: 0cm;
+    background-color: azure;
+    border-top: solid black 1mm;
+    border-left: solid black 1mm;
+}
+
+#caseH{
+    
+    width: 5.4cm;
+    height: 6.3cm;
+    position: absolute;
+    top: 12.8cm;
+    right: 0;
+    background-color: azure;
+    border-top: solid black 1mm;
+    border-left: solid black 1mm;
+}
+
+#caseZ{
+    
+    width: 18.70cm;
+    height: 12.8cm;
+    position: absolute;
+    top: 6.4cm;
+    left: 5.47cm;
+    background-color: darkorchid;
+    border-top: solid black 1mm;
+    border-left: solid black 1mm;
+
+}
+
+/*________________________________________________*/
+
+#nom{
+    
+    font-family: 'Montserrat Subrayada', sans-serif;
+    font-size: 50pt;
+    margin: 0 0 0 2mm;
+
+}
