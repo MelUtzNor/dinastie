@@ -1,0 +1,84 @@
+<html>
+    
+	<head>
+		<title> DINASTIE </title>
+		
+			<meta charset="UTF-8"/>
+			<link href="css/index.css" rel= "stylesheet"/>
+        
+            <link href="https://fonts.googleapis.com/css?family=Montserrat|Montserrat+Subrayada" rel="stylesheet">
+        
+	</head>
+    
+
+
+    <body>  
+    
+   
+    <div id="plaque">
+        
+        <div id="caseA" class="case">
+        
+        </div>
+        
+        <div id="caseB" class="case">
+        
+        </div>
+        
+        <div id="caseC" class="case">
+        
+        </div>
+        
+        <div id="caseD" class="case">
+        
+        </div>
+        
+        <div id="caseE" class="case">
+        
+        </div>
+        
+        <div id="caseF" class="case">
+        
+        </div>
+        
+        <div id="caseG" class="case">
+        
+        </div>
+        
+        <div id="caseH" class="case">
+        
+        </div>
+        
+        <div id="caseZ" class="case">
+            
+            <div id="nom">
+            
+            
+            </div>
+            
+            <div id="intro">
+                
+                
+            
+            </div>
+        
+        </div>
+        
+        
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </body>
+    
+</html>
