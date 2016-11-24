@@ -1,0 +1,2 @@
+# dinastie
+dinastie magazine
